@@ -1,2 +1,2 @@
-# noname
+# BusinessPulse AI
 THIS IS DATA SCIENCE BASED PROJECT
