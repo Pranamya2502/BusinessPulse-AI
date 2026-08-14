@@ -118,8 +118,8 @@ BusinessPulse provides a centralized dashboard for monitoring business performan
 
 
 
-![BusinessPulse Dashboard](<img width="1661" height="754" alt="dashboard" src="https://github.com/user-attachments/assets/ab103465-cfab-42eb-988f-0033e8780170" />
-)
+<img width="1661" height="754" alt="dashboard" src="https://github.com/user-attachments/assets/e1cc0050-b47c-4fdc-8136-bb01627c8e23" />
+
 
 
 
@@ -152,7 +152,8 @@ These filters update the relevant KPIs and visualizations without requiring the 
 
 
 
-![Business Analytics](screenshots/analytics.png)
+<img width="1697" height="618" alt="analytics" src="https://github.com/user-attachments/assets/91ccc182-95f4-4e87-9924-951668d1bb0f" />
+
 
 
 
@@ -209,7 +210,8 @@ The trained model is integrated into the Streamlit dashboard, allowing users to 
 
 
 
-![Profit Prediction](screenshots/ml_prediction.png)
+<img width="1659" height="695" alt="ml_prediction" src="https://github.com/user-attachments/assets/95b2af8a-6843-4864-b750-e873077d2d7d" />
+
 
 
 
@@ -246,7 +248,8 @@ data/processed/sales_forecast.csv
 
 
 
-![Sales Forecast](screenshots/forecast.png)
+<img width="1642" height="782" alt="forecast" src="https://github.com/user-attachments/assets/a3e334cf-f547-4d01-9fac-614c0d37bb70" />
+
 
 
 
@@ -387,52 +390,6 @@ data/processed/cleaned_superstore.csv
 
 ---
 
-# Project Structure
-
-BusinessPulse-AI/
-│
-├── app/
-│   ├── app.py
-│   └── .streamlit/
-│       └── config.toml
-│
-├── data/
-│   ├── raw/
-│   │   └── Sample_Superstore.csv
-│   │
-│   └── processed/
-│       ├── cleaned_superstore.csv
-│       └── sales_forecast.csv
-│
-├── database/
-│   ├── db_connection.py
-│   ├── load_data.py
-│   └── test_connection.py
-│
-├── models/
-│
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── ML_Model.ipynb
-│   └── Forecasting.ipynb
-│
-├── preprocessing/
-│
-├── reports/
-│
-├── visualizations/
-│
-├── screenshots/
-│   ├── dashboard.png
-│   ├── analytics.png
-│   ├── ml_prediction.png
-│   └── forecast.png
-│
-├── .gitignore
-├── requirements.txt
-└── README.md
-
----
 
 # Installation
 
