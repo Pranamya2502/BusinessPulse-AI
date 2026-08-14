@@ -118,7 +118,8 @@ BusinessPulse provides a centralized dashboard for monitoring business performan
 
 
 
-![BusinessPulse Dashboard](screenshots/dashboard.png)
+![BusinessPulse Dashboard](<img width="1661" height="754" alt="dashboard" src="https://github.com/user-attachments/assets/ab103465-cfab-42eb-988f-0033e8780170" />
+)
 
 
 
